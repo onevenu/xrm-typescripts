@@ -1,0 +1,19 @@
+{
+    /*     "files": [
+            "src/main.ts"
+        ], */
+        "compilerOptions": {
+    
+            "target": "es5",
+            "noImplicitAny": false,
+            "sourceMap": true
+           
+        },
+        "include": [
+            "src/**/*"
+        ],
+        "exclude": [
+            "typings/**/*"
+        ],
+        "compileOnSave": true
+    }
