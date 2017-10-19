@@ -1,0 +1,23 @@
+{
+  "name": "xrm-typescripts",
+  "version": "1.0.0",
+  "description": "Template to write xrm scripts in typescripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onevenu/xrm-typescripts.git"
+  },
+  "keywords": [
+    "xrm",
+    "typescript"
+  ],
+  "author": "Vennu Gopal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onevenu/xrm-typescripts/issues"
+  },
+  "homepage": "https://github.com/onevenu/xrm-typescripts#readme"
+}
