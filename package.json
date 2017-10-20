@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/onevenu/xrm-typescripts/issues"
   },
-  "homepage": "https://github.com/onevenu/xrm-typescripts#readme"
+  "homepage": "https://github.com/onevenu/xrm-typescripts#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-typescript": "^3.2.2",
+    "typescript": "^2.5.3"
+  }
 }
