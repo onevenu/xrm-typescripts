@@ -4,7 +4,6 @@ var concat = require('gulp-concat');
 var tsProject = ts.createProject("tsconfig.json");
 
 gulp.task('default', function () {
-    debugger;
 
     gulp.task("default", function () {
         return tsProject.src()
